@@ -1,0 +1,59 @@
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+    <h1>Give your name so that I tell you bonjour :p </h1>
+    <form id="userIdForm">
+        <p> Put your name below </p>
+        <input id="currentUserID" type="text" name="id">
+        <p> Put your language below </p>
+        <input id="currentUserLanguage" type="text" name="language"><br>
+        <input type="submit" value="send">
+    </form>
+    <div id="currentID"></div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+
+        $("#userIdForm").submit(function() {
+
+
+
+            event.preventDefault();
+
+            var currentUserID = $("#currentUserID").val();
+            var currentUserLanguage = $("#currentUserLanguage").val();
+
+            var my_data = {
+                "id": currentUserID,
+                "language": currentUserLanguage
+            }
+
+
+            $.ajax({
+                "method": "POST",
+                "contentType": "application/json",
+                "url": "/api/users/",
+                "data": JSON.stringify(my_data),
+                "success": function(data) {
+                    console.log(data)
+                    // $.ajax({
+
+                    $("h1").empty();
+                    $("form").empty();
+                    $("#currentID").append("<p>" + data.message + "</p>");
+
+                }
+            });
+
+
+
+        })
+    });
+</script>
+
+</html>

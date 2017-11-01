@@ -1,0 +1,1 @@
+<sent id="58">  His death , in 1687 , was caused by a peculiar accident . </sent> <sent id="59">  While conducting a performance of his orchestra he struck his foot with the cane which he used for marking the time . </sent> <sent id="60">  The bruise gradually assumed such a serious condition that it ended his life . </sent>

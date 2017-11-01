@@ -1,0 +1,1 @@
+<sent id="31">  But here comes our friend , the yesbut . </sent> <sent id="32">  Yes , you can get an emissions benefit from corn ethanol . </sent> <sent id="33">  But , this only works if the ethanol plant is powered by natural gas . </sent>

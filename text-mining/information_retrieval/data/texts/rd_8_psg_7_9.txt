@@ -1,0 +1,1 @@
+<sent id="7">  It is native to Central America but is now grown in many parts of the tropics and subtropics . </sent> <sent id="8">  The seeds , which contain up to 35 per cent oil , can be processed into biodiesel for transport and biofuel for lighting and cooking . </sent> <sent id="9">  It is poisonous and can not be used for food . </sent>

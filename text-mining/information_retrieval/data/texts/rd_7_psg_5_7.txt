@@ -1,0 +1,1 @@
+<sent id="5">  There are two major factors . </sent> <sent id="6">  The first is the actual displacement of water from where it is sustaining a healthy ecosystem as well as healthy hydrologic cycles . </sent> <sent id="7">  Because humanity has polluted so much surface water on the planet , we are now mining the groundwater far faster than it can be replaced by nature . </sent>

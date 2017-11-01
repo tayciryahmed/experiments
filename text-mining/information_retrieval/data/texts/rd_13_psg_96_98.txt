@@ -1,0 +1,1 @@
+<sent id="96">  neuroimaging , using 1 or more of the following techniques : 1 . </sent> <sent id="97">  CT or MRI - - examines brain structure for places of atrophy characteristic of AD 2 . </sent> <sent id="98">  PET or SPECT - - examine brain function for places of hypometabolism or hypoperfusion characteristic of AD . </sent>

@@ -1,0 +1,26 @@
+<html>
+
+<body>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <p> click the button view to see the news titles </p>
+    <form id="userIdForm" method="post" action="/api/db/view/titles">
+        <input type="submit" value="view titles of news">
+        <br>
+    </form>
+    <%= message%>
+        <ul>
+            <% for(var i=0; i<users.length; i++) { %>
+                <li>
+
+                    <%= users[i].titre %>
+
+
+                </li>
+                <% } %>
+        </ul>
+
+        <button onclick="location.href = '/';">Go to Home page</button>
+</body>
+
+</html>

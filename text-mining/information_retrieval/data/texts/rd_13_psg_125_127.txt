@@ -1,0 +1,1 @@
+<sent id="125">  Similarly , depressed mood can trigger difficult behaviors . </sent> <sent id="126">  Therefore , a careful medical evaluation is important if behavior has changed . </sent> <sent id="127">  Additionally , review of possible environment triggers is needed . </sent>

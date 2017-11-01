@@ -1,0 +1,1 @@
+<sent id="12">  The cerebral cortex is a sheet of neural tissue that is the outermost part of the brain . </sent> <sent id="13">  It plays a key role in memory , attention , perception , thought , language and consciousness . </sent> <sent id="14">  During this stage of the disease , the brain shrinks dramatically due to widespread cell death . </sent>

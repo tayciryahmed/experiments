@@ -1,0 +1,1 @@
+<sent id="16">  With this genetic form of AD , if the gene is carried there is near 100per cent likelihood that the person will develop AD if they live beyond 60 years . </sent> <sent id="17">  Less than 5per cent of AD cases are transmitted in this fashion . </sent> <sent id="18">  A more common genetic risk is associated with the apolipoprotein gene on chromosome 19 . </sent>

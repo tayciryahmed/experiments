@@ -1,0 +1,2 @@
+<sent id="99">  But that 's not what happened . </sent> <sent id="100">  Instead , in 2007 , as corn ethanol production in America hit 6 billion gallons , corn exports rose by 14 percent , compared to the previous year . </sent> <sent id="101">  In fact , they 've been , generally , trending on the rise since 2003 .
+ </sent>

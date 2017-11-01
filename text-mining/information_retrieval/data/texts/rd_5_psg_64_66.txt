@@ -1,0 +1,1 @@
+<sent id="64">  Indirect land use change is a little more thorny . </sent> <sent id="65">  The world , as they say , is flat . </sent> <sent id="66">  An acre of corn or wheat grown in the United States is n't merely used to fatten American cattle or bake American bread . </sent>

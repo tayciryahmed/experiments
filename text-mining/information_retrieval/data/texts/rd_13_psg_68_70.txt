@@ -1,0 +1,1 @@
+<sent id="68">  medical history 6 . </sent> <sent id="69">  current medications 7 . </sent> <sent id="70">  drug and alcohol use 8 . </sent>

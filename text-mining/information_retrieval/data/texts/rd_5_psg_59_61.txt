@@ -1,0 +1,1 @@
+<sent id="59">  Direct land use change is easy to wrap one 's head around . </sent> <sent id="60">  Say you own an acre of timber and you decide to clear it , because you can get a good price for growing biofuel crops there , instead . </sent> <sent id="61">  That timber was locking in a lot of carbon in the form of trees , and plants , and virgin soil . </sent>

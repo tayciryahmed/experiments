@@ -1,0 +1,1 @@
+<sent id="77">  Problems with abstract thinking 7 . </sent> <sent id="78">  Misplacing things 8 . </sent> <sent id="79">  Changes in mood or behavior 9 . </sent>

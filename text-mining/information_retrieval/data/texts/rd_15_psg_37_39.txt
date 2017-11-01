@@ -1,0 +1,1 @@
+<sent id="37">  There are few things more frightening then being disorientated , such as being a few blocks away from your house and not knowing how to get home . </sent> <sent id="38">  When you see someone who is obviously confused , do n't be afraid to offer help . </sent> <sent id="39">  The worse that happens is they say `` No thank you . '' </sent>

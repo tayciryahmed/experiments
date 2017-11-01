@@ -1,0 +1,1 @@
+<sent id="35">  The person 's abilities today may be different tomorrow . </sent> <sent id="36">  Offer help to the person . </sent> <sent id="37">  There are few things more frightening then being disorientated , such as being a few blocks away from your house and not knowing how to get home . </sent>

@@ -1,0 +1,1 @@
+<sent id="95">  Instead , they might just switch the kind of meat they eat . </sent> <sent id="96">  It takes about 10x as much corn to grow a pound of beef as it takes to grow a pound of chicken . </sent> <sent id="97">  Finally , some predictions in the worst case models do n't match up with what we 've seen in the real world . </sent>

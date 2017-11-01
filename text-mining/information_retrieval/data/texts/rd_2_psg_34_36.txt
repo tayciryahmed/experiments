@@ -1,0 +1,1 @@
+<sent id="34">  Africa has the highest rates of STDs in the world . </sent> <sent id="35">  STDs facilitate the spread of HIV infection , especially among women . </sent> <sent id="36">  Political instability and violent conflicts keep many African governments from focusing on the AIDS crisis . </sent>

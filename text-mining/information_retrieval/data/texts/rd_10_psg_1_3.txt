@@ -1,0 +1,1 @@
+<sent id="1">  Requiem for Classical MusicA man stands surrounded by women . </sent> <sent id="2">  He is tall and handsome with long , flowing hair ; the women are worshipful , kneeling at his feet . </sent> <sent id="3">  There is one particularly zealous admirer with large scissors , ready to cut a lock of his hair . </sent>

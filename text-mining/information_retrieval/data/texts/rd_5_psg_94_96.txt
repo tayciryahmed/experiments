@@ -1,0 +1,1 @@
+<sent id="94">  But less corn being available does n't necessarily mean people eat less meat . </sent> <sent id="95">  Instead , they might just switch the kind of meat they eat . </sent> <sent id="96">  It takes about 10x as much corn to grow a pound of beef as it takes to grow a pound of chicken . </sent>

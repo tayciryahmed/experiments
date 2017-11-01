@@ -1,0 +1,1 @@
+<sent id="20">  Floods , which are already a serious problem for various regions , may increase . </sent> <sent id="21">  Coastal areas , where the bulk of the population and economic activities are concentrated , will be vulnerable to rising sea levels . </sent> <sent id="22">  How climate change will affect agricultural productivity is not yet understood in detail . </sent>

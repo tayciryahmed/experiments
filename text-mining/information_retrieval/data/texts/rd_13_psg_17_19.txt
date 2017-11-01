@@ -1,0 +1,1 @@
+<sent id="17">  Less than 5per cent of AD cases are transmitted in this fashion . </sent> <sent id="18">  A more common genetic risk is associated with the apolipoprotein gene on chromosome 19 . </sent> <sent id="19">  This gene has three common variants or alleles , called APOE e2 , APOE e3 , and APOE e4 . </sent>

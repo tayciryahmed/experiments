@@ -1,0 +1,1 @@
+<sent id="34">  Whether or not late life depression is a risk , or rather just an an early sign of AD is still unknown . </sent> <sent id="35">  Having depression at younger ages does not appear to be a risk factor for AD . </sent> <sent id="36">  Female gender is associated with a slightly increased risk of developing AD . </sent>

@@ -1,0 +1,1 @@
+<sent id="28">  GREET figures that corn ethanol really can be better than gasoline . </sent> <sent id="29">  You can get more energy out of a gallon of corn ethanol than you used to make it . </sent> <sent id="30">  And a gallon of corn ethanol can reduce greenhouse gas emissions by somewhere between 18per cent and 28per cent , compared to a gallon of gasoline . </sent>

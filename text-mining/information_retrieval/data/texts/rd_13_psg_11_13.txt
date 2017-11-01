@@ -1,0 +1,1 @@
+<sent id="11">  How aging leads to these changes remains unknown . </sent> <sent id="12">  For some , genetic factors contribute to , or even cause development of the disease . </sent> <sent id="13">  This risk is greatest for those with a strong family history of AD , and for individuals whose family members were diagnosed with AD before age 65 . </sent>

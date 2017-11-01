@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1340px" height="680px" viewBox="0 0 1340 680" preserveAspectRatio="xMidYMid meet">
+    <rect id="svgEditorBackground" x="0" y="0" width="1340" height="680" style="fill: none; stroke: none;" />
+    <rect x="477" y="87" stroke="black" id="e1_rectangle" style="stroke-width: 1px;" width="254" height="82" fill="khaki" />
+    <rect x="330" y="222" stroke="black" id="e15_rectangle" style="stroke-width: 1px;" width="197" height="83" fill="khaki" />
+    <rect x="712" y="222" stroke="black" id="e31_rectangle" style="stroke-width: 1px;" width="218" height="92" fill="khaki" />
+    <rect x="165" y="355" stroke="black" id="e45_rectangle" style="stroke-width: 1px;" width="168" height="74" fill="khaki" />
+    <rect x="568" y="359" stroke="black" id="e59_rectangle" style="stroke-width: 1px;" width="160" height="75" fill="khaki" />
+    <rect x="745" y="360" stroke="black" id="e86_rectangle" style="stroke-width: 1px;" width="119" height="76" fill="khaki" />
+    <rect x="874" y="356" stroke="black" id="e100_rectangle" style="stroke-width: 1px;" width="129" height="83" fill="khaki" />
+    <rect x="1028" y="358" stroke="black" id="e114_rectangle" style="stroke-width: 1px;" width="142" height="83" fill="khaki" />
+    <rect x="1189" y="356" stroke="black" id="e128_rectangle" style="stroke-width: 1px;" width="136" height="85" fill="khaki" />
+    <line id="e142_line" x1="544" y1="166" x2="447" y2="223" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e156_line" x1="641" y1="169" x2="757" y2="222" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e170_line" x1="343" y1="305" x2="271" y2="354" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e184_line" x1="734" y1="316" x2="659" y2="360" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e198_line" x1="779" y1="314" x2="776" y2="363" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e212_line" x1="861" y1="311" x2="906" y2="358" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e226_line" x1="908" y1="316" x2="1077" y2="359" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e240_line" x1="930" y1="295" x2="1267" y2="354" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <rect x="741" y="462" stroke="black" id="e254_rectangle" style="stroke-width: 1px;" width="122" height="71" fill="khaki" />
+    <rect x="656" y="574" stroke="black" id="e268_rectangle" style="stroke-width: 1px;" width="95" height="42" fill="khaki" />
+    <rect x="768" y="576" stroke="black" id="e282_rectangle" style="stroke-width: 1px;" width="77" height="42" fill="khaki" />
+    <rect x="858" y="573" stroke="black" id="e296_rectangle" style="stroke-width: 1px;" width="74" height="47" fill="khaki" />
+    <rect x="925" y="471" stroke="black" id="e310_rectangle" style="stroke-width: 1px;" width="132" height="72" fill="khaki" />
+    <line id="e324_line" x1="818" y1="433" x2="815" y2="469" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e338_line" x1="797" y1="531" x2="733" y2="571" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e352_line" x1="816" y1="538" x2="817" y2="576" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e366_line" x1="842" y1="535" x2="883" y2="575" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <line id="e380_line" x1="948" y1="443" x2="975" y2="473" stroke="black" style="stroke-width: 1px; fill: none;" />
+    <text fill="black" x="580" y="102" id="e394_texte" style="font-family: Arial; font-size: 20px;"></text>
+    <text fill="black" x="551" y="122" id="e422_texte" style="font-family: Arial; font-size: 20px;">html</text>
+    <text fill="black" x="375" y="275" id="e437_texte" style="font-family: Arial; font-size: 20px;">head</text>
+    <text fill="black" x="873" y="260" id="e452_texte" style="font-family: Arial; font-size: 20px;">body</text>
+    <text fill="black" x="186" y="373" id="e467_texte" style="font-family: Arial; font-size: 20px;">title</text>
+    <text fill="black" x="595" y="391" id="e482_texte" style="font-family: Arial; font-size: 20px;">h1</text>
+    <text fill="black" x="798" y="397" id="e497_texte" style="font-family: Arial; font-size: 20px;">nav</text>
+    <text fill="black" x="911" y="403" id="e512_texte" style="font-family: Arial; font-size: 20px;">div</text>
+    <text fill="black" x="1080" y="402" id="e527_texte" style="font-family: Arial; font-size: 20px;">div</text>
+    <text fill="black" x="1241" y="410" id="e542_texte" style="font-family: Arial; font-size: 20px;">div</text>
+    <text fill="black" x="778" y="495" id="e557_texte" style="font-family: Arial; font-size: 20px;">lu</text>
+    <text fill="black" x="957" y="502" id="e572_texte" style="font-family: Arial; font-size: 20px;">img</text>
+    <text fill="black" x="711" y="601" id="e587_texte" style="font-family: Arial; font-size: 20px;">li</text>
+    <text fill="black" x="790" y="603" id="e602_texte" style="font-family: Arial; font-size: 20px;">li</text>
+    <text fill="black" x="908" y="584" id="e617_texte" style="font-family: Arial; font-size: 20px;"></text>
+    <text fill="black" x="876" y="598" id="e632_texte" style="font-family: Arial; font-size: 20px;">li</text>
+</svg>

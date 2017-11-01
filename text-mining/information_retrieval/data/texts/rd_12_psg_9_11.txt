@@ -1,0 +1,1 @@
+<sent id="9">  He was playing a solo when he noticed the cardinal engaged in conversation with another person . </sent> <sent id="10">  He immediately laid down his violin , and , on being asked the reason , answered that `` he feared the music might interrupt the conversation . '' </sent> <sent id="11">  Corelli was a man of gentle disposition and simple habits . </sent>

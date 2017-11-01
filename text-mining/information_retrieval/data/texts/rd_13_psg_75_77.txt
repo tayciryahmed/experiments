@@ -1,0 +1,1 @@
+<sent id="75">  gait 3 . </sent> <sent id="76">  balance and stability 4 . </sent> <sent id="77">  motor function and motor sequences 5 . </sent>

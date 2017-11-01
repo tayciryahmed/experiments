@@ -1,0 +1,1 @@
+<sent id="67">  PROINFA has two phases . </sent> <sent id="68">  The first will install 3,300 megawatts of electricity generating capacity based on biomass , small hydro power plants and wind power . </sent> <sent id="69">  This represents just under one per cent of the total electricity production in 2002 . </sent>

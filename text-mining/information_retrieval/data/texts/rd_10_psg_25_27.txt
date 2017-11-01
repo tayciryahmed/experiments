@@ -1,0 +1,1 @@
+<sent id="25">  Everybody knows classical music when they hear it . </sent> <sent id="26">  It's old . </sent> <sent id="27">  It's serious . </sent>

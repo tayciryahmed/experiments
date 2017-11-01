@@ -1,0 +1,1 @@
+<sent id="2">  A friend recently said to me , `` When my friends learned I had Alzheimer 's , many looked at me as if I had some kind of contagious disease . </sent> <sent id="3">  Then , they just stopped calling or coming around . </sent> <sent id="4">  Do n't they know it is n't the bloody plague ? </sent>

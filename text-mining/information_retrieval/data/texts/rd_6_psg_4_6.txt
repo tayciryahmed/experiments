@@ -1,0 +1,1 @@
+<sent id="4">  Unlike most developed and many developing countries , Brazil 's energy sector contributes little to the country 's greenhouse gas emissions . </sent> <sent id="5">  Unsustainable land use and forestry contribute most . </sent> <sent id="6">  Brazil 's track record in renewable energies is an example to many . </sent>

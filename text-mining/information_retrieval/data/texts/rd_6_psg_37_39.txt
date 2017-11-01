@@ -1,0 +1,1 @@
+<sent id="37">  When forests are cleared , carbon that was held in the soil is also released as carbon dioxide or methane . </sent> <sent id="38">  Natural decomposition within intact forest is a further source of carbon dioxide and methane emissions . </sent> <sent id="39">  Good estimates of how much land has been deforested are available from satellite images . </sent>

@@ -1,0 +1,1 @@
+<sent id="34">  Dementia is progressive . </sent> <sent id="35">  The person 's abilities today may be different tomorrow . </sent> <sent id="36">  Offer help to the person . </sent>

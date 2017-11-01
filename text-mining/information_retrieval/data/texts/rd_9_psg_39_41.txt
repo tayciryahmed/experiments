@@ -1,0 +1,1 @@
+<sent id="39">  From 1806 until his death he enjoyed a pension of X300 granted by Fox . </sent> <sent id="40">  He died at Chelsea College on the 12th of April 1814 , and was interred in the burying ground of the college . </sent> <sent id="41">  A tablet was erected to his memory in Westminster Abbey . </sent>

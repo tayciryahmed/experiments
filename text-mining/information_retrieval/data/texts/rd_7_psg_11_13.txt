@@ -1,0 +1,1 @@
+<sent id="11">  Over 20per cent of daily water used for human purpose is exported out of watersheds in this way . </sent> <sent id="12">  Water is also piped across long distances for industry leaving behind parched landscapes . </sent> <sent id="13">  The second factor is the removal of the vegetation needed for a healthy hydrologic cycle . </sent>

@@ -1,0 +1,1 @@
+<sent id="36">  Burning is widely used in the Amazon region to prepare new agricultural land . </sent> <sent id="37">  When forests are cleared , carbon that was held in the soil is also released as carbon dioxide or methane . </sent> <sent id="38">  Natural decomposition within intact forest is a further source of carbon dioxide and methane emissions . </sent>

@@ -1,0 +1,1 @@
+<sent id="20">  This process also destroys the natural sequestration of carbon in the soil , leading to carbon loss . </sent> <sent id="21">  Of course , these two factors are deeply related . </sent> <sent id="22">  Just as removing vegetation from an ecosystem will dry up the soil , so too will removing water from an ecosystem mean reduced or non existent vegetation . </sent>

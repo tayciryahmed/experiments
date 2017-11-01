@@ -1,0 +1,1 @@
+<sent id="129">  Lack of exercise will increase the likelihood that the patient will become irritable or agitated . </sent> <sent id="130">  Overstimulation and big changes in the environment often precipitate difficult behaviors . </sent> <sent id="131">  Medications for these behaviors have limited value and often make things worse rather than better . </sent>

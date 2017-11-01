@@ -1,0 +1,1 @@
+<sent id="71">  At first glance , that logic sounds foolproof . </sent> <sent id="72">  And most researchers agree that it has to be taken into account and studied as we plan the future of energy . </sent> <sent id="73">  But , when you ask how big an impact land use change might have that 's when the experts start to disagree . </sent>

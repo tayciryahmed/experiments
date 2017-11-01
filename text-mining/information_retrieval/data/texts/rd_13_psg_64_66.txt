@@ -1,0 +1,1 @@
+<sent id="64">  family history of neurological disease 2 . </sent> <sent id="65">  current symptoms 3 . </sent> <sent id="66">  the onset and course of symptoms 4 . </sent>

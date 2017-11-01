@@ -1,0 +1,1 @@
+<sent id="12">  Many symphony orchestras are cutting back programs and suffering financial difficulties . </sent> <sent id="13">  The Pittsburgh Symphony is selling its concert hall . </sent> <sent id="14">  A sign of the times : the `` Death of Classical Music Archive '' on ArtsJournal.com contains more than 50 recent articles on the topic . </sent>

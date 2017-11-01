@@ -1,0 +1,1 @@
+<sent id="91">  kidney dysfunction 3 . </sent> <sent id="92">  liver dysfunction 4 . </sent> <sent id="93">  B12 or folic acid deficiency 5 . </sent>

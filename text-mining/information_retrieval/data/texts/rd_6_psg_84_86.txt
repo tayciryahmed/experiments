@@ -1,0 +1,1 @@
+<sent id="84">  Currently , no biodiesel is used in Brazil . </sent> <sent id="85">  Biodiesel can be produced from several beans and palms that grow easily in Brazil , such as dend , castor bean , soybean , sunflower , peanuts and others . </sent> <sent id="86">  It can also be made from animal fat , sewage and used vegetable oil . </sent>

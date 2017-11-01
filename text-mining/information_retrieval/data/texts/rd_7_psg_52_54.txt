@@ -1,0 +1,1 @@
+<sent id="52">  Nearly two billion people live in water stressed regions of the earth . </sent> <sent id="53">  Until now , the UN has addressed this terrible reality with a program to give them access to groundwater sources . </sent> <sent id="54">  But current levels of groundwater takings are unsustainable . </sent>

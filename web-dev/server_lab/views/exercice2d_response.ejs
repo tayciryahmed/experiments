@@ -1,0 +1,25 @@
+<html>
+
+<body>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <%= user%>
+        <br>
+        <%= language%>
+
+            <ul>
+                <% for(var i=0; i<users.length-1; i++) { %>
+                    <li>
+
+                        <b><%= users[i].id %></b> visited this page in
+                        <b><%= users[i].language %></b> at
+                        <b> <%= users[i].time %></b>
+
+
+                    </li>
+                    <% } %>
+            </ul>
+
+</body>
+
+</html>

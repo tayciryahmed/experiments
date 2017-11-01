@@ -1,0 +1,1 @@
+<sent id="66">  the onset and course of symptoms 4 . </sent> <sent id="67">  risk factors for AD and other neurological disorders 5 . </sent> <sent id="68">  medical history 6 . </sent>

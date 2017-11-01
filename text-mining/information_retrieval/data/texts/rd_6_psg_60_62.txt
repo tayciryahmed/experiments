@@ -1,0 +1,1 @@
+<sent id="60">  PROCEL 's contribution was significant . </sent> <sent id="61">  In the 1990s , the bulk of Brazil 's energy consumption was supplied by hydropower , so the emissions from the sector were modest . </sent> <sent id="62">  In 1997 , emissions from the Brazilian power sector were 17 million tonnes of carbon dioxide equivalent . </sent>

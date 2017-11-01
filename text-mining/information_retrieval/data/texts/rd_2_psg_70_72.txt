@@ -1,0 +1,1 @@
+<sent id="70">  The policy problems that contribute to the AIDS crisis in Africa extend beyond Washington and other international donors . </sent> <sent id="71">  Until recently , African leaders have largely ignored the pandemic . </sent> <sent id="72">  Even today , very few African nations match their AIDS rhetoric with commensurate budget allocations . </sent>

@@ -1,0 +1,1 @@
+<sent id="123">  AD patients may not be able to explain how they feel . </sent> <sent id="124">  Pain associated with a urinary infection , tooth decay , or back problems can manifest as agitation or confusion . </sent> <sent id="125">  Similarly , depressed mood can trigger difficult behaviors . </sent>

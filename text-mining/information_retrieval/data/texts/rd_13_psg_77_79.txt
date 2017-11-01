@@ -1,0 +1,1 @@
+<sent id="77">  motor function and motor sequences 5 . </sent> <sent id="78">  sensory perception and discrimination 6 . </sent> <sent id="79">  reflexes 3 . </sent>

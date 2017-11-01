@@ -1,0 +1,1 @@
+<sent id="18">  African women account for 85per cent of all global female infections . </sent> <sent id="19">  In southern Africa , one in four women aged 15 49 live with HIV\/AIDS . </sent> <sent id="20">  In some countries , between 10 and 20per cent of teen age girls are already infected . </sent>

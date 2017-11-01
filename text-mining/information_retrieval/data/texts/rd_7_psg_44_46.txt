@@ -1,0 +1,1 @@
+<sent id="44">  Countries should also limit or ban the mass movement of water by pipeline . </sent> <sent id="45">  Government investment in water and wastewater infrastructure would save huge volumes of water lost every day . </sent> <sent id="46">  Local laws could enforce water harvesting practices at every level . </sent>

@@ -1,0 +1,1 @@
+<sent id="33">  Accept changes . </sent> <sent id="34">  Dementia is progressive . </sent> <sent id="35">  The person 's abilities today may be different tomorrow . </sent>

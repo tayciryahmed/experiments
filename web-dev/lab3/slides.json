@@ -1,0 +1,28 @@
+{  
+   "slides":[  
+      {  
+         "time":0,
+         "url":"http://www.ciup.fr"
+      },
+      {  
+         "time":15,
+         "url":"http://www.agroparistech.fr"
+      },
+      {  
+         "time":30,
+         "url":"http://en.wikipedia.org"
+      },
+      {  
+         "time":45,
+         "url":"http://www.laposte.fr"
+      },
+      {  
+         "time":60,
+         "url":"http://www.mozilla.com"
+      },
+      {  
+         "time":75,
+         "url":"http://www.ofii.fr"
+      }
+   ]
+}

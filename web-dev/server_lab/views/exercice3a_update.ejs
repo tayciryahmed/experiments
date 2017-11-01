@@ -1,0 +1,22 @@
+<html>
+
+<body>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <form id="userIdForm" method="post" action="/api/db/update/:titre/:contenu">
+        <p> specify the title of the article you want to update</p>
+        <input type="text" name="titre">
+        <p> specify the new content</p>
+        <input type="text" name="contenu">
+        <br>
+        <input type="submit" value="update">
+        <br>
+
+    </form>
+    <%= message%>
+
+        <button onclick="location.href = '/';">Go to Home page</button>
+
+</body>
+
+</html>

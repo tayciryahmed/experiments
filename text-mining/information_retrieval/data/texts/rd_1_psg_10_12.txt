@@ -1,0 +1,1 @@
+<sent id="10">  Consider the following : . </sent> <sent id="11">  Since the 1980s when AIDS first emerged , the United States has demanded `` economic austerity measures '' in impoverished countries . </sent> <sent id="12">  In Africa , these policies cut national health budgets in half just when public health systems needed to be ramped up to combat AIDS . </sent>

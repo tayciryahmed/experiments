@@ -1,0 +1,74 @@
+Nom: Yahmed
+Prénom: Taycir
+
+Question 1a: 
+lorsqu'on fait "inspecter" on voit le code HTML tel que le browser l'a généré 
+(car le message http contient des informations qui indiquent au browser que c'est du html)
+
+
+Question 1b: On peut utiliser la balise <b> de HTML. 
+À quoi servent les balises en HTML ?
+Une page HTML est composée d’éléments qui définissent la structure de la page, mettent en forme les textes, les objets, les images et vont former la base du code de cette page.
+
+
+Question 1c: 
+Le meme contenu s'affiche, sauf le titre de la page qui devient "Ceci est une page de test"
+La balise <title> fait partie des balises structurant un document HTML. Ce tag encadre le titre du document, c'est à dire le texte qui apparaitra comme nom de la fenêtre ou de l'onglet du navigateur qui affichera la page. 
+
+Expliquez la structure de base d'une page HTML: 
+Les documents HTML doivent tous avoir une structure minimale. C'est-à-dire des balises qui sont toujours présentes et au milieu desquelles on va ajouter son propre contenu. 
+
+Voici un exemple de page minimale :
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Titre affiché dans la barre de titre du navigateur</title>
+  </head>
+
+  <body>
+    <!-- C'est ici qu'on met son contenu  -->
+  </body>
+
+</html>
+
+
+Question 1d: la différence entre la balise nav et les autres balises sémantiques par rapport à la balise div.
+La balise <nav> est utilisée pour créer des menus avec des liens permettant de naviguer sur les pages/sections du site Web. Par contre la balise div ne donne aucune information sur son contenu. 
+
+==> Le HTML sémantique est l'utilisation du balisage HTML visant à renforcer le sémantisme (la signification) des informations contenues dans les pages web, c'est-à-dire leur sens, plutôt que de se borner à définir leur présentation (ou apparence).
+
+Question 1e: voir le document .svg 
+
+
+Question 1f:
+un exemple de balise non fermée qui ne change rien: br
+un autre de balise non fermée qui a changé le rendu: div 
+
+Question 2a: Pour chacun des div en question, j'ai rajouté l'attribut style en spécifiant les changements corrspondants (demandés)
+
+- sur l'image du div 1, du code CSS pour que le texte soit affiché à droite puis en bas de l'image: style="float: left"
+
+- sur le second div, du code CSS qui définit un bord de 1 pixel d'épaisseur: style="border-style: solid; border-width: 1px;"
+
+- sur le troisième div, du code CSS qui définit une couleur de fond gris clair: style="background-color: grey;"
+
+Question 2b: J'ai rajouté dans la balise "head" une balise "style" qui regroupe tous les élements de style avec références aux identificateurs des éléments HTML concernés. 
+
+<style>
+#img{float: left;}
+#div2{border-style: solid; border-width: 1px;}
+#div3{background-color: grey;}
+</style>
+
+=> Pour que cette technique ait un avantage, il faut que le CSS soit relativement court et qu'il ne soit pas réutilisé sur une autre page web du site. En l'intégrant directement dans la page HTML, il ne concernera que celle ci, cette technique est donc peu adapté aux sites (les différentes pages d'un site ont souvent le même style). Elle est néanmoins efficace pour une page de "démonstration", cela simplifie l'envoie (1seul fichier au lieu de 2) et comme dit plus haut si le CSS est petit la vitesse de chargement sera plus rapide par rapport aux autres techniques. De cette façon il est aussi possible de modifier le CSS très facilement avec du PHP.
+Il est bien sûr conseillé de mettre son CSS dans le <head> plutôt que dans le <body>.
+
+Question 2c: Il suffit de rajouter la balise link en spécifiant le chemin vers le fichier de style externe:
+<link rel="stylesheet" type="text/css" href="style.css">
+
+=> C'est la méthode la plus courante et la plus propre, en mettant CSS dans une page .css dédiée on permet sa réutilisation sur d'autre pages ainsi qu'une compréhension par un tiers simplifié. En ayant une page CSS dédiée on augmente la vitesse de chargement du site car les pages CSS se mettent dans le cache du navigateur, au contraire de la page .html qui sera rechargé à chaque visite.
+
+

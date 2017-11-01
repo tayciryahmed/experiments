@@ -1,0 +1,1 @@
+<sent id="6">  There are other options , of course , like electricity . </sent> <sent id="7">  And that can work quite well , depending on what you 're trying to do . </sent> <sent id="8">  Eventually , we may find ourselves in a world where liquid fuel is no longer the best option . </sent>

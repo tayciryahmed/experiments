@@ -1,0 +1,1 @@
+<sent id="12">  In Africa , these policies cut national health budgets in half just when public health systems needed to be ramped up to combat AIDS . </sent> <sent id="13">  Today , the pandemic is the single greatest obstacle to economic development in Africa . </sent> <sent id="14">  . </sent>

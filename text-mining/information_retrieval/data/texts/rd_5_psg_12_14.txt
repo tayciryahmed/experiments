@@ -1,0 +1,1 @@
+<sent id="12">  Yes , biofuels do have a future . </sent> <sent id="13">  But what that future will be depends on whether we can control for some very messy variables . </sent> <sent id="14">  Here , in three points , are the big things you need to know about biofuel .1 . </sent>

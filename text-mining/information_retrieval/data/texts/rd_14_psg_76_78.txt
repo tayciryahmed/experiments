@@ -1,0 +1,1 @@
+<sent id="76">  Poor or decreased judgment 6 . </sent> <sent id="77">  Problems with abstract thinking 7 . </sent> <sent id="78">  Misplacing things 8 . </sent>

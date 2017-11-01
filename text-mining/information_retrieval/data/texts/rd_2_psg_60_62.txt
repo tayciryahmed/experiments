@@ -1,0 +1,1 @@
+<sent id="60">  Fortunately , U.S. policymakers are responding to such public pressure with increased allocations . </sent> <sent id="61">  The U.S. Senate , for example , recently approved a $ 700 million increase in proposed spending over the next two years to fight AIDS in poor countries . </sent> <sent id="62">  However , much more needs to be done . </sent>

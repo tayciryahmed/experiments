@@ -1,0 +1,1 @@
+<sent id="24">  As part of his research , Dr. Fornazzari began studying the life of an artist who is suffering from Alzheimer 's disease . </sent> <sent id="25">  Danae Chambers was commissioned to paint portraits of dignitaries around Canada and abroad . </sent> <sent id="26">  Her artwork has been shown in galleries around the world . </sent>

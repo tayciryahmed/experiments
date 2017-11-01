@@ -1,0 +1,1 @@
+<sent id="69">  current medications 7 . </sent> <sent id="70">  drug and alcohol use 8 . </sent> <sent id="71">  sleep habits 9 . </sent>

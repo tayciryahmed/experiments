@@ -1,0 +1,1 @@
+<sent id="35">  In Africa , nine out of ten people with HIV\/AIDS are still denied these drugs , now almost universally available in wealthy countries . </sent> <sent id="36">  The reason ? </sent> <sent id="37">  Lack of political will and high drug prices . </sent>

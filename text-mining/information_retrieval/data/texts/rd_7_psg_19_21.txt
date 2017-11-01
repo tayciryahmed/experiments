@@ -1,0 +1,1 @@
+<sent id="19">  Dry soil from lost vegetation traps solar heat , sharply increasing the local temperature and causing a reduction in precipitation over the affected area . </sent> <sent id="20">  This process also destroys the natural sequestration of carbon in the soil , leading to carbon loss . </sent> <sent id="21">  Of course , these two factors are deeply related . </sent>

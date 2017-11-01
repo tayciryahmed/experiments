@@ -1,0 +1,1 @@
+<sent id="33">  According to the World Health Organization , an estimated 30 50per cent of all TB patients in Africa are also infected with HIV\/AIDS . </sent> <sent id="34">  Africa has the highest rates of STDs in the world . </sent> <sent id="35">  STDs facilitate the spread of HIV infection , especially among women . </sent>

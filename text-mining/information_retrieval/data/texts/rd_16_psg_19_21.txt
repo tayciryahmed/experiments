@@ -1,0 +1,1 @@
+<sent id="19">  Alzheimer 's disease has a profound impact on creativity . </sent> <sent id="20">  Alzheimer 's disease attacks the right posterior part of the brain , which enables people to retrieve internal imagery and copy images . </sent> <sent id="21">  Alzheimer 's disease patients may lose the ability to copy images entirely . </sent>

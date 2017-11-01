@@ -1,0 +1,1 @@
+<sent id="19">  In southern Africa , one in four women aged 15 49 live with HIV\/AIDS . </sent> <sent id="20">  In some countries , between 10 and 20per cent of teen age girls are already infected . </sent> <sent id="21">  Infected girls are more likely than boys to drop out of school , reversing decades of slow but steady progress in female education . </sent>

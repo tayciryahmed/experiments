@@ -1,0 +1,1 @@
+<sent id="93">  B12 or folic acid deficiency 5 . </sent> <sent id="94">  thyroid dysfunction 6 . </sent> <sent id="95">  autoimmune disorders 5 . </sent>

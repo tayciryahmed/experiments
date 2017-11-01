@@ -1,0 +1,1 @@
+<sent id="63">  a careful history , including : 1 . </sent> <sent id="64">  family history of neurological disease 2 . </sent> <sent id="65">  current symptoms 3 . </sent>

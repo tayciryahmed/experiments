@@ -1,0 +1,1 @@
+<sent id="67">  risk factors for AD and other neurological disorders 5 . </sent> <sent id="68">  medical history 6 . </sent> <sent id="69">  current medications 7 . </sent>

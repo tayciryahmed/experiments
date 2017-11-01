@@ -1,0 +1,1 @@
+<sent id="150">  Here are several behavioral issues that frequently arise with AD , and ways that may help deal with them . </sent> <sent id="151">  \* Suspicion or paranoia : People with AD sometimes become suspicious of others . </sent> <sent id="152">  If you are the subject of that suspicion , it can be hurtful and confusing . </sent>

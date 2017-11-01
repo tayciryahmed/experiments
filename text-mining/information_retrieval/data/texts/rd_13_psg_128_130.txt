@@ -1,0 +1,1 @@
+<sent id="128">  Sleep in the daytime will often mean that the patient stays awake at night . </sent> <sent id="129">  Lack of exercise will increase the likelihood that the patient will become irritable or agitated . </sent> <sent id="130">  Overstimulation and big changes in the environment often precipitate difficult behaviors . </sent>

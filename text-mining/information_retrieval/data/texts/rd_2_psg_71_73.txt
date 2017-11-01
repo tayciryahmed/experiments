@@ -1,0 +1,1 @@
+<sent id="71">  Until recently , African leaders have largely ignored the pandemic . </sent> <sent id="72">  Even today , very few African nations match their AIDS rhetoric with commensurate budget allocations . </sent> <sent id="73">  Uganda and Senegal are prominent exceptions . </sent>

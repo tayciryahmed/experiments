@@ -1,0 +1,1 @@
+<sent id="33">  But , this only works if the ethanol plant is powered by natural gas . </sent> <sent id="34">  If it runs on coal , you 're not reducing emissions at all . </sent> <sent id="35">  Also : The picture only looks this rosy when you compare corn ethanol to gasoline , but not to any of the other competing biofuels . </sent>

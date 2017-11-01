@@ -1,0 +1,1 @@
+<sent id="31">  There will be things someone with dementia wo n't remember , both recent and distant . </sent> <sent id="32">  Not remembering has nothing to do with not trying . </sent> <sent id="33">  Accept changes . </sent>
